@@ -1,5 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
+<<<<<<< HEAD
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
@@ -62,3 +63,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+1. Create Database profile_management
+2. Fill The details In .Env file.
+3. Composer update.
+4. Php artisan migrate
+5. open CMD And Run Php Artisan Serve.
+6. Use url-:http://127.0.0.1:8000/profiles.
+>>>>>>> 32300c13472fad75a357efcfe9f36f7ed3278b6d
